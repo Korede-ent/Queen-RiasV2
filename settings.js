@@ -50686,7 +50686,7 @@ global.packname = "𝑹𝒊𝒂𝒔 𝑳𝒐𝒗𝒆𝒔"
 global.author = "𝑻𝒐𝒙𝒙𝒊𝒄"
 global.creator = "2348165846414@s.whatsapp.net"
 global.xchannel = {
-    	jid: '10000000000000000@newsletter'
+    	jid: '120363336528578108@newsletter'
 	}
 	global.ytname = "YT: Toxxic" //ur yt chanel name
 global.socialm = "GitHub: Toxic1239" //ur github or insta name

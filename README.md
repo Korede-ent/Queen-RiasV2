@@ -16,9 +16,11 @@
 <a href="https://github.com/Toxic1239/Queen-RiasV2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Queen-RiasV2?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
-### IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO LIB/SESSIONS FOLDER 
+<p>IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO SESSIONS FOLDER </p>
 
-### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Toxic1239/Queen-RiasV2/fork) It
+### 1.`First STAR 🌟 This Repo ` And Then Click Fork Below
+<br>
+    <a href='https://github.com/Toxic1239/Queen-RiasV2/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=Github&logoColor=white'/></a>
 
 ### 2. GET CREDS.JSON HERE 
 
@@ -52,12 +54,15 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 * Bot Connected
 ```
 <br>
-    <a href='https://github.com/Toxic1239/Queen-RiasV2/archive/refs/heads/main.zip' target="_blank"><img alt='DOWNLOAD ZIP' src='https://img.shields.io/badge/-Download Zip File-red?style=for-the-badge&logo=mediafire&logoColor=white'/></a>
+    <a href='https://github.com/Toxic1239/Queen-RiasV2/archive/refs/heads/main.zip' target="_blank"><img alt='DOWNLOAD ZIP' src='https://img.shields.io/badge/-Download Zip File-red?style=for-the-badge&logo=google&logoColor=white'/></a>
  <br>
     <a href='https://bot-hosting.net/?aff=1249249036259823733' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/-Deploy On Panel-green?style=for-the-badge&logo=WhatsApp&logoColor=white'/></a>
+<br>
+    <a href='https://youtu.be/I5L6gcc8o1Q?si=GsuswtpRoteCT4KX' target="_blank"><img alt='TUTORIAL' src='https://img.shields.io/badge/-Tutorial-black?style=for-the-badge&logo=Youtube&logoColor=red'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### DEPLOY ON TERMUX
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ⟱" alt="Typing SVG" /></a>
 
@@ -81,8 +86,11 @@ npm start
     
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
-<br> Just Type npm start and add your number
-    <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
+```bash
+npm install
+npm start
+```
+   <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
 
 ***
 
@@ -127,4 +135,4 @@ npm start
 - B.m.b for his support and some cases added 
 - Veran For Support
 - Xeon for Some Cases
-- King for Support
+- King for Fixing Some Cases 
